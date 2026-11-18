@@ -27,17 +27,17 @@ The main objective is to find keys scattered throughout the levels and use them 
 ## 📸 Screenshots
 
 ### Main Gameplay
-![Main Gameplay](screenshot/coinandenemy.png)
+![Main Gameplay](Screenshots/coinandenemy.png)
 
 ### Home Page
-![Coin Collection](screenshot/homepage.png)
+![Coin Collection](Screenshots/homepage.png)
 
 ### Enemies & Obstacles
-![Enemies and Obstacles](screenshot/obstacles.png)
+![Enemies and Obstacles](Screenshots/obstacles.png)
 
 ### Key & Door Mechanic
-![Key and Door](screenshot/key.png)
-![Key and Door](screenshot/finish.png)
+![Key and Door](Screenshots/key.png)
+![Key and Door](Screenshots/finish.png)
 
 ## ⬇️ Download & Play
 
