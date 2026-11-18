@@ -30,14 +30,14 @@ The main objective is to find keys scattered throughout the levels and use them 
 ![Main Gameplay](screenshot/coinandenemy.png)
 
 ### Home Page
-![Coin Collection](https://github.com/zidhanyanotama/desert-run/blob/main/screenshot/homepage.png)
+![Coin Collection](screenshot/homepage.png)
 
 ### Enemies & Obstacles
-![Enemies and Obstacles](https://github.com/zidhanyanotama/desert-run/blob/main/screenshot/obstacles.png)
+![Enemies and Obstacles](screenshot/obstacles.png)
 
 ### Key & Door Mechanic
-![Key and Door](https://github.com/zidhanyanotama/desert-run/blob/main/screenshot/key.png)
-![Key and Door](https://github.com/zidhanyanotama/desert-run/blob/main/screenshot/finish.png)
+![Key and Door](screenshot/key.png)
+![Key and Door](screenshot/finish.png)
 
 ## ⬇️ Download & Play
 
