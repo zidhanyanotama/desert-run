@@ -27,7 +27,7 @@ The main objective is to find keys scattered throughout the levels and use them 
 ## 📸 Screenshots
 
 ### Main Gameplay
-![Main Gameplay](https://github.com/zidhanyanotama/desert-run/blob/main/screenshot/coinandenemy.png)
+![Main Gameplay](screenshot/coinandenemy.png)
 
 ### Home Page
 ![Coin Collection](https://github.com/zidhanyanotama/desert-run/blob/main/screenshot/homepage.png)
